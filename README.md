@@ -159,3 +159,26 @@ Añade el siguiente texto a este archivo, asegurándote de agregar la ruta corre
 Guarda el archivo y ciérralo. 
 
 Ahora abre el icono de IntelliJ que has creado en tus aplicaciones de Ubuntu.
+
+
+## 3. Instalar VSCODE
+
+Sigue los siguientes pasos para Instalar VSCODE
+
+1. Visita la página de descargas de [VSCode](https://code.visualstudio.com/download).
+2. Selecciona la versión que corresponda a tu sistema operativo (Windows, Linux o Mac).
+3. Descarga el archivo y sigue las instrucciones de instalación.
+
+### Configurar VSCode para Java
+
+1. Abre VSCode.
+2. Ve a la sección de extensiones (puedes usar el atajo `Ctrl+Shift+X`).
+3. Busca `Java Extension Pack` y haz clic en `Install`.
+4. Reinicia VSCode.
+
+Ahora VSCode está listo para trabajar con Java. Para crear un nuevo proyecto de Java:
+
+1. Haz clic en `File > New File`.
+2. Guarda el archivo con la extensión `.java`.
+3. Escribe tu código Java y guarda el archivo.
+4. Para ejecutar el código, haz clic con el botón derecho en el archivo y selecciona `Run Java`.
