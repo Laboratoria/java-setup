@@ -150,11 +150,11 @@ Añade el siguiente texto a este archivo, asegurándote de agregar la ruta corre
     Version=13.0
     Type=Application
     Terminal=false
-    Icon[en_US]=<caminho para o diretório onde você descompactou o IntelliJ>/bin/idea.png
+    Icon[en_US]=<ruta al directorio donde descomprimió IntelliJ>/bin/idea.png
     Name[en_US]=IntelliJ
-    Exec=<caminho para o diretório onde você descompactou o IntelliJ>/bin/idea.sh
+    Exec=<ruta al directorio donde descomprimió IntelliJ>/bin/idea.sh
     Name=IntelliJ
-    Icon=<caminho para o diretório onde você descompactou o IntelliJ>/bin/idea.png
+    Icon=<ruta al directorio donde descomprimió IntelliJ>/bin/idea.png
 
 Guarda el archivo y ciérralo. 
 
