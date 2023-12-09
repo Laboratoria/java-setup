@@ -186,7 +186,9 @@ Icon=<ruta al directorio donde descomprimió IntelliJ>/bin/idea.png
 
 - Guarda el archivo, ciérralo y ahora abre el icono de IntelliJ que has creado en tus aplicaciones de Ubuntu 🚀
 
-***
+#### Paso 3. Crea tu primer proyecto 
+
+Puedes seguir la siguiente (guía)[https://drive.google.com/file/d/1F4qS2ZticeHaEtktijCzFC6KSD4Yev0j/view?usp=drive_link] para crear tu primer proyecto y ponerlo a prueba 
 
 ### VSCode
 
@@ -205,3 +207,6 @@ Icon=<ruta al directorio donde descomprimió IntelliJ>/bin/idea.png
 
 > Puedes seguir los pasos de la siguiente [documentación oficial](https://code.visualstudio.com/docs/java/java-tutorial) de VSCODE 🫡
 
+#### Paso 3. Crea tu primer proyecto 
+
+Puedes seguir la siguiente (guía)[https://drive.google.com/file/d/13YecWGDqNeUzwaPKA7YuAMGV4FRf-wY7/view?usp=drive_link] para crear tu primer proyecto y ponerlo a prueba 
