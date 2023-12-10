@@ -23,6 +23,9 @@ Asegúrate de descargar el paquete comprimido adecuado para tu sistema operativo
 #### Para Linux (Ubuntu)
 - Recomiendo descargar el archivo en formato ```tar.gz``` para facilitar la instalación.
 
+#### Para macOS
+- Recomiendo descargar el archivo en formato ```.dmg``` para facilitar la instalación.
+
 ### Paso 2. Ejecuta el instalador
 
 Después de que se complete la descarga del archivo de instalación, ejecuta el programa de instalación.
@@ -31,7 +34,7 @@ Después de que se complete la descarga del archivo de instalación, ejecuta el 
 
 - Ejecuta el programa de instalación y haz clic en "Siguiente" en todas las pantallas presentadas. El proceso es simple y rápido.
 
-#### Para Linux
+#### Para Linux (Ubuntu)
 
 - Abre un terminal, ve a la carpeta "Downloads" y copia el archivo de instalación al directorio de tu elección con el siguiente comando
 
@@ -51,6 +54,10 @@ cd /<ruta-completa-de-tu-directorio>
 tar -zvxf jdk-<versión>.tar.gz
 ```
 
+#### Para macOS
+
+- Ejecuta el programa de instalación y haz clic en "Siguiente" en todas las pantallas presentadas. El proceso es simple y rápido.
+
 ### Paso 3. Configuración de Java
 
 La configuración implica la creación de las variables de entorno JAVA_HOME y CLASSPATH. Estas variables son importantes para que los programas encuentren dónde se instaló el JDK.
@@ -61,15 +68,14 @@ La configuración implica la creación de las variables de entorno JAVA_HOME y C
 
 ```bash
 setx JAVA_HOME "<directorio-donde-jdk-fue-instalado>"
-setx CLASSPATH "%JAVA_HOME%\lib"
 setx PATH "%PATH%;%JAVA_HOME%\bin"
 ```
 
 - Cierra el símbolo del sistema.
 
-#### Para Linux
+#### Para Linux (Ubuntu)
 
-- Abre el terminal y edita el archivo /etc/profile con el siguiente comando
+- Abre el terminal y edita el archivo ```/etc/profile``` con el siguiente comando
 
 ```bash
 sudo gedit /etc/profile
@@ -79,12 +85,27 @@ sudo gedit /etc/profile
 
 ```txt
 JAVA_HOME=directorio-donde-jdk-fue-instalado
-CLASSPATH=.;$JAVA_HOME/lib
 PATH=$PATH:$JAVA_HOME/bin
 export JAVA_HOME
-export CLASSPATH
 export PATH
 ```
+
+#### Para macOS
+
+- Abre el terminal y edita el archivo ```~/.bashrc``` con el siguiente comando
+
+```bash
+vim ~/.bashrc
+```
+
+- Agrega las siguientes líneas al principio del archivo ```~/.bashrc```
+
+```txt
+JAVA_HOME=directorio-donde-jdk-fue-instalado
+export JAVA_HOME
+```
+
+> Puedes seguir lo pasoscon el [video](https://www.youtube.com/watch?v=wXotUgqOdh8) de referencia
 
 - Guarda el archivo y reinicia tu máquina para que se apliquen los cambios.
 
