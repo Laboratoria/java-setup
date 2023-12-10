@@ -177,7 +177,7 @@ cd idea-IC-<versión>
 
 - Este comando iniciará varios archivos de configuración en el directorio de configuración de IntelliJ:
 
-```bash    
+```bash   
 ~/.config/JetBrains/IdeaIC2023.2.
 ```
 
@@ -207,9 +207,15 @@ Icon=<ruta al directorio donde descomprimió IntelliJ>/bin/idea.png
 
 - Guarda el archivo, ciérralo y ahora abre el icono de IntelliJ que has creado en tus aplicaciones de Ubuntu 🚀
 
+##### Para macOS
+
+- Ejecuta el programa de instalación y haz clic en "Siguiente" en todas las pantallas presentadas.
+
+> En este [guía de instalación](https://www.jetbrains.com/help/idea/run-for-the-first-time.html#macos) de IntelliJ encontrarás más información sobre cómo personalizarlo.
+
 #### Paso 3. Crea tu primer proyecto 
 
-Puedes seguir la siguiente (guía)[https://drive.google.com/file/d/1F4qS2ZticeHaEtktijCzFC6KSD4Yev0j/view?usp=drive_link] para crear tu primer proyecto y ponerlo a prueba 
+Puedes seguir la siguiente [guía](https://drive.google.com/file/d/1F4qS2ZticeHaEtktijCzFC6KSD4Yev0j/view?usp=drive_link) para crear tu primer proyecto y ponerlo a prueba 
 
 ### VSCode
 
@@ -230,4 +236,4 @@ Puedes seguir la siguiente (guía)[https://drive.google.com/file/d/1F4qS2ZticeHa
 
 #### Paso 3. Crea tu primer proyecto 
 
-Puedes seguir la siguiente (guía)[https://drive.google.com/file/d/13YecWGDqNeUzwaPKA7YuAMGV4FRf-wY7/view?usp=drive_link] para crear tu primer proyecto y ponerlo a prueba 
+Puedes seguir la siguiente [guía](https://drive.google.com/file/d/13YecWGDqNeUzwaPKA7YuAMGV4FRf-wY7/view?usp=drive_link) para crear tu primer proyecto y ponerlo a prueba 
