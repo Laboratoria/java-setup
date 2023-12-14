@@ -219,9 +219,6 @@ Icon=<caminho para o diretório onde você descompactou o IntelliJ>/bin/idea.png
 
 > Neste [guia de instalação](https://www.jetbrains.com/help/idea/run-for-the-first-time.html#macos) do próprio intelliJ você encontrará mais informações de como personaliá-lo.
 
-#### Passo 3. Crie seu primeiro projeto
-
-Você pode acompanhar a próxima [guia](https://drive.google.com/file/d/1F4qS2ZticeHaEtktijCzFC6KSD4Yev0j/view?usp=drive_link) para criar seu primeiro projeto e colocá-lo à prova 
 
 ### VSCode
 
@@ -240,6 +237,8 @@ Você pode acompanhar a próxima [guia](https://drive.google.com/file/d/1F4qS2Zt
 
 > Puedes seguir los pasos de la siguiente [documentación oficial](https://code.visualstudio.com/docs/java/java-tutorial) de VSCODE 🫡
 
-#### Paso 3. Crea tu primer proyecto 
+## 3. Crea tu primer proyecto
 
-Você pode seguir o seguinte [guia](https://drive.google.com/file/d/13YecWGDqNeUzwaPKA7YuAMGV4FRf-wY7/view?usp=drive_link) para criar seu primeiro projeto e testá-lo.
+Agora que você tem tudo instalado e configurado, é hora de praticar os conceitos básicos do Java 
+e criar seu primeiro projeto. Para isso, preparamos uma série de [recursos](https://github.com/laboratoria/java-setup).
+Bem-vindo ao incrível mundo do Java ☕️🚀
