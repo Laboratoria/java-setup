@@ -235,5 +235,5 @@ Icon=<ruta al directorio donde descomprimió IntelliJ>/bin/idea.png
 ## 3. Crea tu primer proyecto
 
 Ahora que se tiene todo instalado y configurado es momento de practicar los conceptos básicos de Java
-y crear tu primer proyecto para esto hemos preparado una serie de [recursos](https://github.com/laboratoria/java-setup).
+y crear tu primer proyecto para esto hemos preparado una serie de [recursos](https://github.com/laboratoria/java-oop).
 Bienvenid@ al increible mundo de Java ☕️🚀

@@ -240,5 +240,5 @@ Icon=<caminho para o diretório onde você descompactou o IntelliJ>/bin/idea.png
 ## 3. Crea tu primer proyecto
 
 Agora que você tem tudo instalado e configurado, é hora de praticar os conceitos básicos do Java 
-e criar seu primeiro projeto. Para isso, preparamos uma série de [recursos](https://github.com/laboratoria/java-setup).
+e criar seu primeiro projeto. Para isso, preparamos uma série de [recursos](https://github.com/Laboratoria/java-oop/blob/main/README.md).
 Bem-vindo ao incrível mundo do Java ☕️🚀
